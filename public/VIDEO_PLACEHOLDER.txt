@@ -1,0 +1,10 @@
+Replace this file with your introductory video:
+
+  /public/intro-video.mp4
+
+Optional thumbnail:
+
+  /public/intro-thumbnail.jpg
+
+Until those files exist, the hero uses a built-in placeholder card.
+This file is only a reminder and is not loaded by the app.
